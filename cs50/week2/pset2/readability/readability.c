@@ -3,6 +3,7 @@
 #include <string.h>
 #include <math.h>
 
+
 int count_num_of_letters(string text);
 int count_num_of_words(string text);
 int count_num_of_sentences(string text);
